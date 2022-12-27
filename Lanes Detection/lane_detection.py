@@ -1,6 +1,6 @@
 # Written by:
-# Aviv Galily 316431774
-# Bar Ashkenazi 313233181
+# Aviv Galily
+# Bar Ashkenazi
 
 # Import necessary libraries
 import cv2
